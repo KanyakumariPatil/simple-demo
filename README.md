@@ -1,2 +1,3 @@
-# simple-demo
-just practice purpose
+# Simple example repositary
+
+This repositary for practise purpose
